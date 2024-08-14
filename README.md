@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliaadam
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning computer programming and website development. 
+- 🌱 I’m currently having fun, doing some cool stuffs.
 - 💞️ I’m looking to collaborate on programming projects 
 - 📫 How to reach me .... elijahadamsonny@gmail.com
 
